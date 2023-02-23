@@ -1,7 +1,7 @@
 # kotinos
 VOC filter specifically designed for Ender Switchwire, but cross compatible with OEM SW.
 
-![Uploading Kotinos_Full_Iso.png…]()
+![Kotinos_Full_Iso](https://user-images.githubusercontent.com/85740352/220867511-7d45a9e6-bafd-421d-bf43-5e8d1c60dd85.png)
 
 This design is a modified [zerofilter](https://github.com/zruncho3d/zerofilter/), by zruncho.
 
