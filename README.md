@@ -7,7 +7,7 @@ The kotinos must be positioned ontop of the decks panels and on both sides of th
 
 If this is being installed in the Ender_SW:
 
-Remove M5 washer inbetween M5X10 BHCS and replace with "kotinos core".
+Remove M5 washer inbetween M5X10 BHCS and deck. Replace with "kotinos core".
 
 Proceed to install 4010 blower fan.
 
